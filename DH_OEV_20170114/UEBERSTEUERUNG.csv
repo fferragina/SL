@@ -1,0 +1,173 @@
+datenquelle|standdatum|offertnummerintern|erstellerlogin|erstellungsdatum|processconfiguration|produktid|uebersteuerungsid|fehlertext
+6050|20170114|00105132037|FLUN|20170113|2|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105132037|FLUN|20170113|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105129445|SVAN|20170113|2|SLPDV3|101238|
+6050|20170114|00105129445|SVAN|20170113|2|SLPDV3|101121|
+6050|20170114|00105126671|ESPO|20170113|3|SLPDV1|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105126671|ESPO|20170113|3|SLPDV1|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105145894|ESPO|20170113|3|SLPUP|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105142940|ESPO|20170113|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105147671|ESPO|20170113|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105147670|ESPO|20170113|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105144127|ESPO|20170113|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105127242|ESPO|20170113|1|SLPDV1|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105123176|UBEN|20170113|3|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105123176|UBEN|20170113|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105122251|ESPO|20170113|1|SLFVD3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105147969|ESPO|20170113|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105142249|ESPO|20170113|1|SLFVD3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105133788|ESPO|20170113|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105148206|EAMI|20170113|1|SLPDV2|101121|L'inizio dell'assicurazione non deve situarsi nel passato.
+6050|20170114|00105139600|EAMI|20170113|2|SLPDV3|101121|L'inizio dell'assicurazione non deve situarsi nel passato.
+6050|20170114|00105139600|EAMI|20170113|2|SLPDV3|101238|L'inizio dell'assicurazione si situa più di un mese nel passato.
+6050|20170114|00105146529|ESPO|20170113|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105146462|ESPO|20170113|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105105194|ESPO|20170113|1|SLPUP|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105105194|ESPO|20170113|1|SLPUP|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105149590|ESPO|20170113|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105139633|ESFM|20170113|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105143735|ESFM|20170113|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105134788|DEBA|20170113|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105149715|LEGG|20170113|10|SLPUP|101121|
+6050|20170114|00105149715|LEGG|20170113|10|SLPUP|101238|
+6050|20170114|00105149641|LEGG|20170113|10|SLPDV1|101238|
+6050|20170114|00105149641|LEGG|20170113|10|SLPDV1|101121|
+6050|20170114|00105149637|LEGG|20170113|10|SLPDV1|101238|
+6050|20170114|00105149637|LEGG|20170113|10|SLPDV1|101121|
+6050|20170114|00105153212|JABO|20170113|3|SLPUP|101121|
+6050|20170114|00105153212|JABO|20170113|3|SLPUP|101238|
+6050|20170114|00105133918|DEBA|20170113|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105078487|MROO|20161006|1|SLFUP|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105078487|MROO|20161006|1|SLFUP|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105086148|DEBA|20170110|1|SLPDP|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105086148|DEBA|20170110|1|SLPDP|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105124310|UBEN|20170112|2|SLPDV1|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105124310|UBEN|20170112|2|SLPDV1|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105141327|LEGG|20170112|3|SLPKP|101238|
+6050|20170114|00105141327|LEGG|20170112|3|SLPKP|101121|
+6050|20170114|00105146674|ESFM|20170112|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105137666|ESFM|20170112|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105137666|ESFM|20170112|2|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105150746|ROM5|20170112|2|SLPDV3|101121|
+6050|20170114|00105150746|ROM5|20170112|2|SLPDV3|101238|
+6050|20170114|00105141073|ESFM|20170112|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105141073|ESFM|20170112|3|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105149081|ROM5|20170112|2|SLPDP|101238|
+6050|20170114|00105149081|ROM5|20170112|2|SLPDP|101121|
+6050|20170114|00105136370|DEBA|20170112|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105145634|DEBA|20170103|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105123006|ESFM|20170106|2|SLPDV6|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105123006|ESFM|20170106|2|SLPDV6|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105142026|ESFM|20170112|3|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105142026|ESFM|20170112|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105106621|FUAR|20161212|2|SLPDV3|101076|Die Prämienbefreiung bei Erwerbsunfähigkeit ist für den Tarif  obligatorisch.
+6050|20170114|00105140753|ESFM|20170112|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105133814|EAMI|20170112|2|SLPDV3|101121|L'inizio dell'assicurazione non deve situarsi nel passato.
+6050|20170114|00105143571|MROO|20170112|3|SLPDV1|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105143571|MROO|20170112|3|SLPDV1|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105152483|CHME|20170112|4|SLR40|101427|Die Prämie muss mindestens CHF 300 betragen.
+6050|20170114|00105152474|ESFM|20170112|1|SL30|101630|Für die Prüfung der Offertenerstellung mit einer jährlichen Prämie ab 250'000 wenden Sie sich bitte an den Hauptsitz von Swiss Life.
+6050|20170114|00105140744|SCA7|20170111|2|SLFVD3|101238|
+6050|20170114|00105140744|SCA7|20170111|2|SLFVD3|101121|
+6050|20170114|00105152377|GKST|20170111|3|SLPDV3|101238|
+6050|20170114|00105152377|GKST|20170111|3|SLPDV3|101121|
+6050|20170114|00105152376|JABO|20170111|3|SLPDV3|101238|
+6050|20170114|00105152376|JABO|20170111|3|SLPDV3|101121|
+6050|20170114|00105152286|JABO|20170111|3|SLPDV3|101238|
+6050|20170114|00105152286|JABO|20170111|3|SLPDV3|101121|
+6050|20170114|00105149537|ZIFI|20170111|2|SLPDV3|101238|
+6050|20170114|00105149537|ZIFI|20170111|2|SLPDV3|101121|
+6050|20170114|00105144651|ESPO|20170111|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105147173|ESPO|20170111|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105133677|DEBA|20170111|3|SLPDV1|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105136508|DEBA|20170111|3|SLPDV1|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105124077|EAMI|20170111|3|SLPDV3|101121|L'inizio dell'assicurazione non deve situarsi nel passato.
+6050|20170114|00105124077|EAMI|20170111|3|SLPDV3|101238|L'inizio dell'assicurazione si situa più di un mese nel passato.
+6050|20170114|00105126371|DEBA|20170111|2|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105126371|DEBA|20170111|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105138330|UBEN|20170111|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105124474|DEBA|20170111|3|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105124474|DEBA|20170111|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105124250|DEBA|20170111|1|SLPDV1|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105124250|DEBA|20170111|1|SLPDV1|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105137430|JABO|20161206|3|SLR40V|101238|
+6050|20170114|00105137430|JABO|20161206|3|SLR40V|101121|
+6050|20170114|00105122359|DEBA|20170111|1|SLFVD6|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105122359|DEBA|20170111|1|SLFVD6|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105151986|ESFM|20170111|2|SLPDP|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105151986|ESFM|20170111|2|SLPDP|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105112973|DEBA|20170111|2|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105112973|DEBA|20170111|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105148237|ESPO|20170111|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105083460|DEBA|20170111|2|SLPDV3|101076|Die Prämienbefreiung bei Erwerbsunfähigkeit ist für den Tarif  obligatorisch.
+6050|20170114|00105083460|DEBA|20170111|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105083460|DEBA|20170111|2|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105145662|MROO|20170111|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105151896|JABO|20170111|3|SLPDV3|101121|
+6050|20170114|00105151896|JABO|20170111|3|SLPDV3|101238|
+6050|20170114|00105099592|DEBA|20161227|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105099592|DEBA|20161227|1|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105096788|ESFM|20161221|2|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105096788|ESFM|20161221|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105135081|MROO|20161220|1|SLPUP|101076|Die Prämienbefreiung bei Erwerbsunfähigkeit ist für den Tarif  obligatorisch.
+6050|20170114|00105145512|MROO|20170111|10|SLPDV1|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105119373|FUAR|20161213|3|SLPDV3|101076|Die Prämienbefreiung bei Erwerbsunfähigkeit ist für den Tarif  obligatorisch.
+6050|20170114|00105099011|UBEN|20170110|1|SLFNE|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105124376|ZIFI|20170110|2|SLR40V|101121|
+6050|20170114|00105124376|ZIFI|20170110|2|SLR40V|101238|
+6050|20170114|00105089849|EAMI|20170110|2|SLPDP|101238|L'inizio dell'assicurazione si situa più di un mese nel passato.
+6050|20170114|00105089849|EAMI|20170110|2|SLPDP|101121|L'inizio dell'assicurazione non deve situarsi nel passato.
+6050|20170114|00105144649|ESPO|20170110|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105139698|MROO|20170110|1|SLR40|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105113642|DEBA|20161230|1|SLPDV1|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105113642|DEBA|20161230|1|SLPDV1|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105151391|ZIFI|20170110|2|SLPDP|101121|
+6050|20170114|00105151391|ZIFI|20170110|2|SLPDP|101238|
+6050|20170114|00105136341|MST2|20161227|12|SLATPP|101238|
+6050|20170114|00105136341|MST2|20161227|12|SLATPP|101121|
+6050|20170114|00105144802|ESPO|20170110|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105144802|ESPO|20170110|3|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105106163|UBEN|20170110|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105106163|UBEN|20170110|3|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105143380|ESPO|20170110|2|SLPDP|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105113645|DEBA|20170110|2|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105113645|DEBA|20170110|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105128894|DEBA|20170110|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105128894|DEBA|20170110|2|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105125293|DEBA|20170110|1|SLPDV1|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105125293|DEBA|20170110|1|SLPDV1|101076|Die Prämienbefreiung bei Erwerbsunfähigkeit ist für den Tarif  obligatorisch.
+6050|20170114|00105125293|DEBA|20170110|1|SLPDV1|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105146828|ESPO|20170110|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105113838|DEBA|20170110|1|SLR40|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105121250|DEBA|20170110|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105121250|DEBA|20170110|1|SLPDV3|101076|Die Prämienbefreiung bei Erwerbsunfähigkeit ist für den Tarif  obligatorisch.
+6050|20170114|00105121250|DEBA|20170110|1|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105140289|ESPO|20170110|2|SLPDP|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105107525|DEBA|20170110|3|SLPDP|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105107525|DEBA|20170110|3|SLPDP|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105151299|GORA|20170110|1|SLR40|101427|Die Prämie muss mindestens CHF 300 betragen.
+6050|20170114|00105151298|GORA|20170110|1|SLR40|101427|Die Prämie muss mindestens CHF 300 betragen.
+6050|20170114|00105114018|ESFM|20161114|1|SLPDV3|101076|Die Prämienbefreiung bei Erwerbsunfähigkeit ist für den Tarif  obligatorisch.
+6050|20170114|00105086182|FLUN|20170109|3|SLPDV1|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105086182|FLUN|20170109|3|SLPDV1|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105120823|UBEN|20170109|3|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105120823|UBEN|20170109|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105151027|SVAN|20170109|12|SLATFA|101238|
+6050|20170114|00105151027|SVAN|20170109|12|SLATFA|101121|
+6050|20170114|00105148491|ESPO|20170109|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105107116|FUAR|20161130|1|SLPUP|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105150768|ESPO|20170109|1|SLPKP|101316|Die Inkassoprämie für den Tarif XUP2 muss mindestens 1000 betragen. Aktuell bei 565.50. Höhere Prämien oder Leistungen eingeben.
+6050|20170114|00105113068|UBEN|20170109|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105113068|UBEN|20170109|3|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105140344|DEBA|20161228|3|SLPDV3|101076|Die Prämienbefreiung bei Erwerbsunfähigkeit ist für den Tarif  obligatorisch.
+6050|20170114|00105148572|DEBA|20170109|2|SLFVD3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105145393|DEBA|20170109|1|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105108441|ESFM|20161213|3|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105108441|ESFM|20161213|3|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105147226|DEBA|20170109|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105143195|DEBA|20170109|2|SLPDV3|101238|Der Versicherungsbeginn liegt mehr als einen Monat in der Vergangenheit.
+6050|20170114|00105143195|DEBA|20170109|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105137108|DEBA|20170109|2|SLPUP|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105136210|DEBA|20170109|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105141611|DEBA|20170109|2|SLPDV3|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
+6050|20170114|00105144016|DEBA|20170109|2|SLPDP|101121|Der Versicherungsbeginn darf nicht in der Vergangenheit liegen.
